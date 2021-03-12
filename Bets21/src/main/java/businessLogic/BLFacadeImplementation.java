@@ -181,6 +181,8 @@ public class BLFacadeImplementation  implements BLFacade {
 		dbManager.close();
 		return r;
 	}
+	
+	//esto es una prueba para ver si el gir hecho desde eclipse funciona correctamente
 
 
 }
